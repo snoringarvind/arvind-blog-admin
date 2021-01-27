@@ -2,7 +2,7 @@
   display: flex;
   justify-content: center;
   /* border: 1px solid; */
-  margin-top: 10%;
+  /* margin-top: 10%; */
 }
 
 .login-container .Login {
@@ -11,7 +11,9 @@
   padding: 30px;
   border-radius: 4px;
   box-shadow: 1px 1px 4px lightgray;
-  flex-basis: 60%;
+  flex-basis: 70%;
+  margin-top: 5%;
+  margin-bottom: 2%;
 }
 
 .login-container #username,
@@ -47,7 +49,7 @@
 
   .login-container {
     background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100vh;
     margin-top: 0;
   }
@@ -60,7 +62,7 @@
 
   .login-container {
     background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 100vh;
     margin-top: 0;
   }
