@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/arvind-blog-admin/static/css/main.ae58361e.chunk.css",
+    "main.css": "/arvind-blog-admin/static/css/main.595792b2.chunk.css",
     "main.js": "/arvind-blog-admin/static/js/main.1180db55.chunk.js",
     "main.js.map": "/arvind-blog-admin/static/js/main.1180db55.chunk.js.map",
     "runtime-main.js": "/arvind-blog-admin/static/js/runtime-main.78ef5c55.js",
@@ -10,13 +10,13 @@
     "static/js/3.398b74d8.chunk.js": "/arvind-blog-admin/static/js/3.398b74d8.chunk.js",
     "static/js/3.398b74d8.chunk.js.map": "/arvind-blog-admin/static/js/3.398b74d8.chunk.js.map",
     "index.html": "/arvind-blog-admin/index.html",
-    "static/css/main.ae58361e.chunk.css.map": "/arvind-blog-admin/static/css/main.ae58361e.chunk.css.map",
+    "static/css/main.595792b2.chunk.css.map": "/arvind-blog-admin/static/css/main.595792b2.chunk.css.map",
     "static/js/2.71435714.chunk.js.LICENSE.txt": "/arvind-blog-admin/static/js/2.71435714.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.78ef5c55.js",
     "static/js/2.71435714.chunk.js",
-    "static/css/main.ae58361e.chunk.css",
+    "static/css/main.595792b2.chunk.css",
     "static/js/main.1180db55.chunk.js"
   ]
 }
